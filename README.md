@@ -1,0 +1,1 @@
+# aspnet-core-angular5-ngx-translate
